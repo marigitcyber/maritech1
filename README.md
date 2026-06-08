@@ -1,6 +1,6 @@
 ## Minha Primeira Aula de GitHub
 
-Olá! Meu nome é [SEU NOME].
+Olá! Meu nome é Maria.
 
 ## O que aprendi hoje
 - Criar conta no GitHub
