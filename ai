@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>aula 1 aiaiaiaiaiaiai</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <?php
+        $saudação = "Olá";
+        echo $saudação . ", Portifólio do Rafaiel";
+
+        $nome = "Rafaiel";
+        $idade = 17;
+        $escola = "CEDUP";
+        $linguagem = "PhP";
+        $titulo = $saudação . "Eu sou $nome e tenho $idade anos, estudo na $escola e estou aprendendo $linguagem";
+        $subtitulo = "Seja bem-vindo ao curso de $linguagem!";
+        $ano = 2026;
+        ?>
+</body>
+</html>
